@@ -1,2 +1,2 @@
 # Simple-Movie-Recommender-System
-Simple movie recommendor system using sklearn
+Simple movie recommendor system based on content based filtering.
